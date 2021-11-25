@@ -1,4 +1,4 @@
-# Laptop-Preduction-ML
+
 <img align="right" width="600" height="88" src="https://user-images.githubusercontent.com/90325060/143451566-329ef167-ee74-4980-a480-111845082bfe.PNG">
 
 
